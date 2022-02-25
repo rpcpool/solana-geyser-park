@@ -12,3 +12,7 @@ For more info about the accountsdb interface: https://docs.solana.com/developing
  * [gRPC](https://github.com/ckamm/solana-accountsdb-connector): A generic gRPC interface along with a sample plugin for writing the gRPC stream to postgres. By the Mango team.
  * [RabbitMQ](https://github.com/holaplex/solana-indexer/tree/dev/crates/accountsdb-rabbitmq): A RabbitMQ writer by the Holaplex team.
  * [SQS](https://github.com/rpcpool/solana-accountsdb-sqs): An accounts DB interface to write to SQS. By the Triton team.
+
+## AccountsDB related
+
+ * [Solana Postgres RPC server](https://github.com/lijunwangs/solana-postgres-rpc-server): A server to respond to RPC requests via Postgres data written by the Postgres plugin.
