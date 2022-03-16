@@ -22,4 +22,4 @@ For more info about the Geyser interface: https://docs.solana.com/developing/plu
 
 ## An actual Geyser
 
-![image](https://user-images.githubusercontent.com/5172293/158663966-af7fedb8-e581-4176-8191-33884ff3389a.png)
+<img src="https://user-images.githubusercontent.com/5172293/158663966-af7fedb8-e581-4176-8191-33884ff3389a.png" height="300"/>
