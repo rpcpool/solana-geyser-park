@@ -15,7 +15,7 @@ For more info about the Geyser interface: https://docs.solana.com/developing/plu
  * [Kafka](https://github.com/Blockdaemon/solana-accountsdb-plugin-kafka): A Geyser plugin to publish to Kafka. By the Blockdaemon team.
  * [Bigtable](https://github.com/lijunwangs/solana-accountsdb-plugin-bigtable): WIP progress (non production ready) for Google Big Table. By Solana team.
 
-## Geyser related
+## Geyser Related
 
  * [Solana Postgres RPC server](https://github.com/lijunwangs/solana-postgres-rpc-server): A server to respond to RPC requests via Postgres data written by the Postgres plugin.
  * [gRPC connector](https://github.com/ckamm/solana-accountsdb-connector/tree/master/connector-mango): A connector that connects to gRPC plugin to parse data received.
