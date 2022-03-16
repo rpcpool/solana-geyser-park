@@ -4,7 +4,7 @@ The Solana Geyser interface is a handy way to access both account writes, blocks
 
 This is a list of various Geyser plugins available. Feel free to send a PR with your own.
 
-For more info about the Geyser interface: https://docs.solana.com/developing/plugins/accountsdb_plugin 
+For more info about the Geyser interface: https://docs.solana.com/developing/plugins/geyser-plugins
 
 ## Geyser Plugins
 
