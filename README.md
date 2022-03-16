@@ -1,4 +1,4 @@
-# solana-geyserpark
+# Solana Geyser Park
 
 The Solana Geyser interface is a handy way to access both account writes, blocks and (in 1.9) transactions as they are processed by the validator.
 
