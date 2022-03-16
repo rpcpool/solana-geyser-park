@@ -13,6 +13,7 @@ For more info about the accountsdb interface: https://docs.solana.com/developing
  * [RabbitMQ](https://github.com/holaplex/solana-indexer/tree/dev/crates/accountsdb-rabbitmq): A RabbitMQ writer by the Holaplex team.
  * [SQS](https://github.com/rpcpool/solana-accountsdb-sqs): An accounts DB interface to write to SQS. By the Triton team.
  * [Kafka](https://github.com/Blockdaemon/solana-accountsdb-plugin-kafka): A Solana plugin to publish to Kafka. By the Blockdaemon team.
+ * [Bigtable](https://github.com/lijunwangs/solana-accountsdb-plugin-bigtable): WIP progress (non production ready) for Solana bigtable. By Solana team.
 
 ## AccountsDB related
 
