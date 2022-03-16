@@ -1,4 +1,4 @@
-# Solana Geyser Park
+# Geyser Park
 
 **This is not an offical or endorsed list and is not affiliated with Solana Labs or the Solana Foundation in any way.**
 
