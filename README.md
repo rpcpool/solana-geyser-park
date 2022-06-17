@@ -12,7 +12,7 @@ For more info about the Geyser interface: https://docs.solana.com/developing/plu
 
  * [Postgres](https://github.com/solana-labs/solana-accountsdb-plugin-postgres): The OG plugin by the developers of the Geyser interface in Solana team, supports inserting into postgres.
  * [gRPC](https://github.com/ckamm/solana-accountsdb-connector): A generic gRPC interface along with a sample connector for writing the gRPC stream to Postgres. By the Mango team.
- * [RabbitMQ](https://github.com/holaplex/indexer): A RabbitMQ writer. By the Holaplex team.
+ * [RabbitMQ](https://github.com/holaplex/indexer-geyser-plugin): A RabbitMQ writer. By the Holaplex team. Now separated from the rest of the indexer.
  * [SQS](https://github.com/rpcpool/solana-accountsdb-sqs): A Geyser interface to write to SQS. By the Triton team.
  * [Kafka](https://github.com/Blockdaemon/solana-accountsdb-plugin-kafka): A Geyser plugin to publish to Kafka. By the Blockdaemon team.
  * [Bigtable](https://github.com/lijunwangs/solana-accountsdb-plugin-bigtable): WIP progress (non production ready) for Google Big Table. By the Solana team.
