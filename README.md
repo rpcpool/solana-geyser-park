@@ -16,6 +16,7 @@ For more info about the Geyser interface: https://docs.solana.com/developing/plu
  * [Kafka](https://github.com/Blockdaemon/solana-accountsdb-plugin-kafka): A Geyser plugin to publish to Kafka. By the Blockdaemon team.
  * [Bigtable](https://github.com/lijunwangs/solana-accountsdb-plugin-bigtable): WIP progress (non production ready) for Google Big Table. By the Solana team.
  * [gRPC](https://github.com/rpcpool/solana-geyser-grpc): Replacement for websockets with gRPC bidirectional streaming. By Triton One.
+ * [Websocket](https://github.com/Astralane/geyser-websocket-plugin): A geyser plugin for websocket pubsub streams. By Astralane.
 
 ## Geyser Related
 
