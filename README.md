@@ -19,6 +19,7 @@ For more info about the Geyser interface: https://docs.solana.com/developing/plu
 
 ## Geyser Related
 
+ * [Ample Geyser Proxy](https://github.com/ample-sh/ample_geyser_gateway): Stream Solana validator events over QUIC/TLS to run Geyser plugins remotely — keeping your validator lean. Running solana v3.x.x
  * [Solana Postgres RPC server](https://github.com/lijunwangs/solana-postgres-rpc-server): A server to respond to RPC requests via Postgres data written by the Postgres plugin.
  * [gRPC connector](https://github.com/ckamm/solana-accountsdb-connector/tree/master/connector-mango): A connector that connects to gRPC plugin to parse data received.
 
